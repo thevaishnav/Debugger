@@ -1,4 +1,7 @@
 # Debugger
+![Demo of Debugger](https://user-images.githubusercontent.com/61238534/151104900-2c9c8713-85c7-4170-947d-d2b94c9dd47c.gif)  
+
+
 Simple Debugger Module for python
 
 How to use it:
